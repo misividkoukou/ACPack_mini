@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description":"Datapack designed for ACPack, V1.0.8.5, Targeting MC 26.3.Using on ACmini sever",
+        "min_format": [121, 0],
+        "max_format": [121, 0]
+    }
+}
